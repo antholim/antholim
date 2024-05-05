@@ -1,5 +1,5 @@
 Hello I'm Anthony Lim
-I am a Software Engineer student at Concordia
+I am a Software Engineer student at Concordia passionate about programming
 
 
 <!---
