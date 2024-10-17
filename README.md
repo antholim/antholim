@@ -14,7 +14,25 @@ I'm currently based in **[Laval, Canada.](https://www.google.com/maps/place/Lava
 <br />
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=antholim&include_all_commits=true&count_private=true&show_icons=true&line_height=30&title_color=CDB4DB&icon_color=CDB4DB&text_color=D3D3D3&bg_color=0A0A0A" alt="Anthony Lim Github Stats">
+### :bulb: My Skills:
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white)
+### :rocket: Web Development Frameworks/Libraries:
+![React.js](https://img.shields.io/badge/-React.js-61DAFB?logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+---
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=antholim&theme=dark)](https://git.io/streak-stats)
+<br />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=antholim&theme=dark)
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=antholim&layout=compact&theme=dark&langs_count=6)
 <br />
 <br />
 
